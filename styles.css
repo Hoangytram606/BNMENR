@@ -37,8 +37,13 @@ header {
 
 .game img {
     max-width: 100%;
+	 //background-image: url('logo.jpg');
+	 
 	
 }
+
+
+
 
 .game h2 {
     margin-top: 10px;
