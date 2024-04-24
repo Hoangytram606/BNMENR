@@ -2,7 +2,7 @@
 const games = [
     {
         name: "Ngọc rồng-Hồi sinh",
-        image: "/img/hsnr.png",
+        image: "https://hoangytram606.github.io/img/nrin.png",
         description: "nạp",
         link: "https://hoisinhngocrong.com" // Liên kết của trò chơi 1
     },
